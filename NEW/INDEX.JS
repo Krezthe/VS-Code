@@ -1,0 +1,15 @@
+entra ()
+
+
+
+
+
+entra
+
+
+
+
+
+
+function entra ()
+
